@@ -1,0 +1,123 @@
+Sample number,Production area,Bed ID,Local authority,Grid            ,Sampling point,Date sample collected,"Alexandrium spp. 
+cells L-1
+(PSP)","Dinophysiaceae 
+cells L-1
+(DSP)","Prorocentrum lima 
+cells L-1
+(DSP)","Pseudo-nitzschia spp. 
+cells L-1
+(ASP) ","Ligulodinium polyedrum 
+cells L-1
+(Yessotoxin)","Protoceratium reticulatum 
+cells L-1
+(Yessotoxin) ","Prorocentrum cordatum 
+cells L-1
+(Venerupin) ",thresholds_reached
+22-Jan,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,1/5/2022,-1.0,-1.0,-1.0,-1.0,"Unable to analyse, too much sediment","Unable to analyse, too much sediment","Unable to analyse, too much sediment",0
+22-Feb,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,1/5/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Mar,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,1/5/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Apr,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,1/5/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-May,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,1/5/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Jun,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,1/6/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Jul,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,1/6/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Aug,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,1/5/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Sep,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,1/6/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Oct,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,1/10/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+12-Nov,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22-Dec,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,100,0
+13/22,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+14/22,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,1/11/2022,0.0,0.0,0.0,120.0,ND,ND,ND,0
+15/22,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,80,0
+16/22,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,1/11/2022,0.0,0.0,0.0,160.0,ND,ND,ND,0
+17/22,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,1/10/2022,0.0,0.0,0.0,400.0,ND,ND,ND,0
+18/22,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+19/22,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,1/10/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+21/22,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,1/12/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+22/22,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,1/12/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+23/22,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,1/12/2022,0.0,0.0,0.0,160.0,ND,ND,40,0
+24/22,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+25/22,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,1/12/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+26/22,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,1/12/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+27/22,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,1/12/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+28/22,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,1/11/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+29/22,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,1/12/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+30/22,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+31/22,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+32/22,Portland,B25AK,Dorset Council,SY68707757,Site A,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+33/22,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,1/16/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+34/22,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,1/16/2022,0.0,0.0,0.0,400.0,ND,ND,ND,0
+35/22,Roach,B73AF,London PHA,TQ94909207,Paglesham,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+36/22,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+37/22,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+38/22,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+39/22,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,1/18/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+40/22,The Wash,B003V,Boston BC,TF44234098,Toft,1/18/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+41/22,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,1/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+42/22,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,1/18/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+43/22,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,1/18/2022,0.0,0.0,0.0,600.0,ND,ND,ND,0
+44/22,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,1/18/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+45/22,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,1/18/2022,-1.0,-1.0,-1.0,-1.0,"Unable to analyse, too much sediment","Unable to analyse, too much sediment","Unable to analyse, too much sediment",0
+46/22,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,1/19/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+47/22,Dart,B028P,South Hams DC,SX87945350,Long Wood South,1/19/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+48/22,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,1/19/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+49/22,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,1/19/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+50/22,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,1/19/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+51/22,Swale,B076P,Swale BC,TR01316497,The Causeway,1/24/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+52/22,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,1/25/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+53/22,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,1/23/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+54/22,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,1/25/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+56/22,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2/1/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+57/22,The Wash,B003V,Boston BC,TF44234098,Toft,2/2/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+58/22,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2/2/2022,0.0,0.0,0.0,400.0,ND,ND,ND,0
+59/22,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,2/2/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+60/22,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2/2/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+61/22,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2/3/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+62/22,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2/7/2022,0.0,0.0,120.0,0.0,ND,ND,ND,1
+63/22,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,2/7/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+64/22,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2/7/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+65/22,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2/7/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+66/22,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2/7/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+67/22,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2/7/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+68/22,Poole,B54CI,"Bournemouth, Poole and 
+Christchurch Council",SZ01818871,West Brownsea 1,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+69/22,Fal,B033E,Cornwall PHA,SW85134212,Grimes Bar,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+70/22,Fal,B33BG,Cornwall PHA,SW82803517,Mylor Pool,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+71/22,Fal,B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+72/22,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+73/22,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+74/22,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,2/8/2022,-1.0,-1.0,-1.0,-1.0,,,,0
+75/22,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2/8/2022,0.0,0.0,0.0,600.0,ND,ND,ND,0
+76/22,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2/7/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+77/22,Holy Island-Ross Links,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+78/22,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+79/22,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2/7/2022,0.0,0.0,0.0,5240.0,ND,ND,ND,0
+80/22,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2/7/2022,0.0,0.0,0.0,600.0,ND,ND,ND,0
+81/22,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2/8/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+82/22,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2/9/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+83/22,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2/9/2022,0.0,0.0,0.0,160.0,ND,ND,ND,0
+84/22,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2/9/2022,0.0,0.0,0.0,0.0,ND,ND,40,0
+85/22,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2/9/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+86/22,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2/9/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+87/22,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2/9/2022,0.0,0.0,0.0,640.0,ND,ND,ND,0
+88/22,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2/9/2022,0.0,0.0,0.0,240.0,ND,ND,ND,0
+89/22,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2/14/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+90/22,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2/14/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+92/22,Portland,B25AK,Dorset Council,SY68707757,Site A,2/14/2022,0.0,0.0,0.0,160.0,ND,ND,ND,0
+93/22,Deben,B010O,East Suffolk DC,TM28834500,Stonner Point,2/14/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+94/22,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2/13/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+95/22,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2/13/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+96/22,Roach,B73AF,London PHA,TQ94909207,Paglesham,2/14/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+97/22,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2/14/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+98/22,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2/15/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+99/22,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2/15/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+100/22,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2/16/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+101/22,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2/15/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+102/22,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2/16/2022,-1.0,-1.0,-1.0,-1.0,"Unable to analyse, too much sediment","Unable to analyse, too much sediment","Unable to analyse, too much sediment",0
+103/22,Dart,B028P,South Hams DC,SX87945350,Long Wood South,2/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+104/22,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2/17/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+105/22,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2/21/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+106/22,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2/22/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+107/22,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2/22/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+108/22,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2/23/2022,0.0,0.0,0.0,0.0,ND,ND,ND,0
+109/22,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2/23/2022,-1.0,-1.0,-1.0,-1.0,"Unable to analyse, too much sediment","Unable to analyse, too much sediment","Unable to analyse, too much sediment",0
+,,,,,,,-1.0,-1.0,-1.0,-1.0,,,,0
